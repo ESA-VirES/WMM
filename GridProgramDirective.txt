@@ -1,0 +1,1552 @@
+
+Results printed in Console
+Minimum Latitude: 0.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 0.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 0.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 0.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 3.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 2.000000		Step Size: 0.000000
+Minimum Longitude: 0.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 0.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 0.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 3.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 3.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in: GridResults.txt
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 3.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 3.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 3.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 0.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 0.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: 0.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 0.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: -90.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 3.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in: GridResults.txt
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: GridResults.txt
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: 0.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 0.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in Console
+Minimum Latitude: 0.000000		Maximum Latitude: 0.000000		Step Size: 0.000000
+Minimum Longitude: 0.000000		Maximum Longitude: 0.000000		Step Size: 0.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above MSL: 0.000000	Step Size: 0.000000
+Starting Date: 0.000000		Ending Date: 0.000000		Step Time: 0.000000
+
+
+
+Results printed in: GridResults.txt
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: GridResults.txt
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: k
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: 
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: 
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: 
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: 
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 1.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -90.000000		Maximum Latitude: 90.000000		Step Size: 10.000000
+Minimum Longitude: -180.000000		Maximum Longitude: 180.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 10.000000	Maximum Altitude above WGS-84 Ellipsoid: 10.000000	Step Size: 0.000000
+Starting Date: 2013.700000		Ending Date: 2013.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 10.000000	Maximum Altitude above WGS-84 Ellipsoid: 10.000000	Step Size: 0.000000
+Starting Date: 2014.700000		Ending Date: 2014.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.700000		Ending Date: 2014.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.700000		Ending Date: 2014.700000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.500000		Ending Date: 2014.500000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.500000		Ending Date: 2013.500000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1913.500000		Ending Date: 1913.500000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.500000		Ending Date: 2013.500000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -85.000000		Maximum Latitude: 85.000000		Step Size: 10.000000
+Minimum Longitude: -175.000000		Maximum Longitude: 175.000000		Step Size: 10.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.500000		Ending Date: 2013.500000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.500000		Ending Date: 2013.500000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.500000		Ending Date: 2013.500000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.500000		Ending Date: 2013.500000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.500000		Ending Date: 2013.500000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.500000		Ending Date: 2013.500000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1913.000000		Ending Date: 1913.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1913.000000		Ending Date: 1913.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1913.000000		Ending Date: 1913.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.000000		Ending Date: 2013.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2003.000000		Ending Date: 2003.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2013.000000		Ending Date: 2013.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 10.000000	Maximum Altitude above WGS-84 Ellipsoid: 10.000000	Step Size: 0.000000
+Starting Date: 2013.000000		Ending Date: 2013.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1914.000000		Ending Date: 1914.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1924.000000		Ending Date: 1924.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 10.000000	Maximum Altitude above WGS-84 Ellipsoid: 10.000000	Step Size: 0.000000
+Starting Date: 1924.000000		Ending Date: 1924.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1954.000000		Ending Date: 1954.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1994.000000		Ending Date: 1994.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1914.000000		Ending Date: 1914.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 10.000000	Maximum Altitude above WGS-84 Ellipsoid: 10.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 100.000000	Maximum Altitude above WGS-84 Ellipsoid: 100.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 10000000.000000	Maximum Altitude above WGS-84 Ellipsoid: 10000000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 10000.000000	Maximum Altitude above WGS-84 Ellipsoid: 10000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: -5.000000	Maximum Altitude above WGS-84 Ellipsoid: -5.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1914.000000		Ending Date: 1914.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1914.000000		Ending Date: 1914.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.950000		Maximum Latitude: 89.950000		Step Size: 0.100000
+Minimum Longitude: -179.950000		Maximum Longitude: 179.950000		Step Size: 0.100000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1914.000000		Ending Date: 1914.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1914.000000		Ending Date: 1914.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1914.000000		Ending Date: 1914.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.750000		Maximum Latitude: 89.750000		Step Size: 0.500000
+Minimum Longitude: -179.750000		Maximum Longitude: 179.750000		Step Size: 0.500000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 100.000000	Maximum Altitude above WGS-84 Ellipsoid: 100.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1914.000000		Ending Date: 1914.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 1914.000000		Ending Date: 1914.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 1914.000000		Ending Date: 1914.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 1614.000000		Ending Date: 1614.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 1000.000000	Maximum Altitude above WGS-84 Ellipsoid: 1000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 0.000000	Maximum Altitude above WGS-84 Ellipsoid: 0.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 10000.000000	Maximum Altitude above WGS-84 Ellipsoid: 10000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 5000.000000	Maximum Altitude above WGS-84 Ellipsoid: 5000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+
+
+Results printed in: temp_result
+Minimum Latitude: -89.500000		Maximum Latitude: 89.500000		Step Size: 1.000000
+Minimum Longitude: -179.500000		Maximum Longitude: 179.500000		Step Size: 1.000000
+Minimum Altitude above MSL: 5000.000000	Maximum Altitude above WGS-84 Ellipsoid: 5000.000000	Step Size: 0.000000
+Starting Date: 2014.000000		Ending Date: 2014.000000		Step Time: 0.000000
+
+

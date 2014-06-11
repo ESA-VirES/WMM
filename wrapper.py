@@ -214,7 +214,7 @@ def main(args):
     #print zoomresolution[deg_interval]
 
     #contour_steps = parsed.interval[0]
-    contour_steps = iso_intervals[products[parsed.product[0]][1]][zoomresolution[deg_interval]]
+    contour_steps = iso_intervals[products[parsed.product[0]][1]][zoomresolution[round(deg_interval,8)]]
 
     #print "zoomlevel: " + zoomresolution[deg_interval]
     #print iso_intervals[products[parsed.product[0]][1]][zoomresolution[deg_interval]]

@@ -12,11 +12,75 @@ import ogr
 def main(args):
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("resolution", nargs=1, type=float)
+    parser.add_argument("bbox", nargs=4, type=float)
+    #parser.add_argument("resolution", nargs=1, type=float)
+    parser.add_argument("pixelsize", nargs=1, type=int)
     parser.add_argument("height", nargs=1, type=int)
     parser.add_argument("time", nargs=1, type=float)
-    parser.add_argument("product", nargs=1, type=int)
-    parser.add_argument("interval", nargs=1, type=int)
+    parser.add_argument("product", nargs=1, type=str)
+    #parser.add_argument("interval", nargs=1, type=float)
+
+    # configuration
+
+    ## resolutions (in degrees) per zoom level for EPSG 4326
+    zoomresolution = {
+        0.70312500:0,
+        0.35156250:1,
+        0.17578125:2,
+        0.08789063:3,
+        0.04394531:4,
+        0.02197266:5,
+        0.01098633:6,
+        0.00549316:7,
+        0.00274658:8,
+        0.00137329:9,
+        0.00068665:10
+    }
+
+    # product names:(id, iso_interval flavor)
+    products = {
+        "Declination":(1, 1),
+        "Inclination":(2, 1),
+        "F":(3, 2),
+        "H":(4, 2),
+        "X":(5, 2),
+        "Y":(6, 2),
+        "Z":(7, 2)
+        #"GV":{8,
+        #"Ddot":{9.,
+        #"Idot":{10,
+        #"Fdot":{11,
+        #"Hdot":{12,
+        #"Xdot":{13,
+        #"Ydot":{14,
+        #"Zdot":{15,
+        #"GVdot":{16
+    }
+
+    iso_intervals = {
+        1:{
+            0:10,
+            1:10,
+            2:5,
+            3:5,
+            4:1,
+            5:1,
+            6:0.5,
+            7:0.5,
+            8:0.1
+        },
+        2:{
+            0:5000,
+            1:5000,
+            2:2500,
+            3:1000,
+            4:1000,
+            5:1000,
+            6:500,
+            7:500,
+            8:100
+        }
+    }
 
     parsed = parser.parse_args(args)
 
@@ -24,19 +88,25 @@ def main(args):
     proc = subprocess.Popen([exe],1,exe,subprocess.PIPE,sys.stdout,subprocess.STDOUT) 
 
     # Minimum Latitude (in decimal degrees)
-    latmin = -90
+    #latmin = -90
+    latmin = parsed.bbox[0]
 
     # Maximum Latitude (in decimal degrees)
-    latmax = 90
+    #latmax = 90
+    latmax = parsed.bbox[2]
 
     # Minimum Longitude (in decimal degrees)
-    lonmin = -180
+    #lonmin = -180
+    lonmin = parsed.bbox[1]
 
     # Maximum Longitude (in decimal degrees)
-    lonmax = 180
+    #lonmax = 180
+    lonmax = parsed.bbox[3]
 
     # Step Size (in decimal degrees)
-    deg_interval = parsed.resolution[0]
+    #deg_interval = parsed.resolution[0]
+    pixelsize = parsed.pixelsize[0]
+    deg_interval = (latmax-latmin)/pixelsize
 
     # 1: above mean sea level; 2: WGS-84 ellipsoid
     height = "2"
@@ -68,7 +138,7 @@ def main(args):
     # 6. Y				14. Ydot
     # 7. Z				15. Zdot    
     # 8. GV				16. GVdot
-    product = parsed.product[0]
+    product = products[parsed.product[0]][0]
 
     # select output (1 for file)
     output = "1"
@@ -141,7 +211,13 @@ def main(args):
     srs.ImportFromEPSG(4326)
     mem_ds.SetProjection( srs.ExportToWkt() )
 
-    contour_steps = parsed.interval[0]
+    #print zoomresolution[deg_interval]
+
+    #contour_steps = parsed.interval[0]
+    contour_steps = iso_intervals[products[parsed.product[0]][1]][zoomresolution[deg_interval]]
+
+    #print "zoomlevel: " + zoomresolution[deg_interval]
+    #print iso_intervals[products[parsed.product[0]][1]][zoomresolution[deg_interval]]
 
     # clean up from previous runs
     try:
@@ -165,6 +241,8 @@ def main(args):
     ogr_lyr.CreateField(field_defn)
 
     gdal.ContourGenerate(mem_ds.GetRasterBand(1), contour_steps, 0, [], 0, 0, ogr_lyr, 0, 1)
+
+    #print min(raster_out), max(raster_out)
 
     os.remove(tempfile)
 

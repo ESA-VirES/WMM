@@ -65,15 +65,22 @@ MAP
     #TEMPLATE "[templatepath]"
   END # WEB
 
+
+
+  # TODO: add style definition for every single layer separately
+  # (I hate mapfiles.)
+
+  ############################
+  ## start layer definition ##
+  ############################
   LAYER
+    # TODO: editing DATA, EXTENT(?)
     DATA "/home/ungarj/GOCE/data/isolines_01.shp"
     EXTENT -180 -90 180 90
-    MAXSCALEDENOM 10500000
     METADATA
-      "ows_title"   "isolines_01"
+      "ows_title"   "Declination"
     END # METADATA
-    MINSCALEDENOM 0
-    NAME "isolines_01"
+    NAME "Declination"
     PROJECTION
       "proj=longlat"
       "ellps=WGS84"
@@ -82,12 +89,10 @@ MAP
     STATUS ON
     TILEITEM "location"
     TYPE LINE
-    UNITS METERS
-
 
     CLASS
-      NAME "-1145.0000 - -145.0000"
-      EXPRESSION ( ([elev]  > -1145) And ([elev]  <= -145)) 
+      NAME "-180.0000 - -140.0000"
+      EXPRESSION ( ([elev]  > -140) And ([elev]  <= -180)) 
       STYLE
         COLOR 5 113 176
         WIDTH 1
@@ -99,8 +104,8 @@ MAP
       END # STYLE
     END # CLASS
     CLASS
-      NAME "-145.0000 - -105.0000"
-      EXPRESSION ( ([elev]  > -145) And ([elev]  <= -105)) 
+      NAME "-140.0000 - -100.0000"
+      EXPRESSION ( ([elev]  > -140) And ([elev]  <= -100)) 
       STYLE
         COLOR 75 155 199
         WIDTH 1
@@ -112,8 +117,8 @@ MAP
       END # STYLE
     END # CLASS
     CLASS
-      NAME "-105.0000 - -70.0000"
-      EXPRESSION ( ([elev]  > -105) And ([elev]  <= -70))
+      NAME "-100.0000 - -60.0000"
+      EXPRESSION ( ([elev]  > -100) And ([elev]  <= -60))
       STYLE
         COLOR 146 197 222
         WIDTH 1
@@ -125,8 +130,8 @@ MAP
       END # STYLE
     END # CLASS
     CLASS
-      NAME "-70.0000 - -35.0000"
-      EXPRESSION ( ([elev]  > -70) And ([elev]  <= -35)) 
+      NAME "-60.0000 - -20.0000"
+      EXPRESSION ( ([elev]  > -60) And ([elev]  <= -20)) 
       STYLE
         COLOR 196 222 234
         WIDTH 1
@@ -138,8 +143,8 @@ MAP
       END # STYLE
     END # CLASS
     CLASS
-      NAME "-35.0000 - 0.0000"
-      EXPRESSION  ( ([elev]  > -35) And ([elev]  <= 0))
+      NAME "-20.0000 - 20.0000"
+      EXPRESSION  ( ([elev]  > -20) And ([elev]  <= 20))
       STYLE
         COLOR 247 247 247
         WIDTH 1
@@ -151,8 +156,8 @@ MAP
       END # STYLE
     END # CLASS
     CLASS
-      NAME "0.0000 - 35.0000"
-      EXPRESSION ( ([elev]  > 0) And ([elev]  <= 35))
+      NAME "20.0000 - 60.0000"
+      EXPRESSION ( ([elev]  > 20) And ([elev]  <= 60))
       STYLE
         COLOR 245 356 188
         WIDTH 1
@@ -164,8 +169,8 @@ MAP
       END # STYLE
     END # CLASS
     CLASS
-      NAME "35.0000 - 70.0000"
-      EXPRESSION ( ([elev]  > 35) And ([elev]  <= 70))
+      NAME "60.0000 - 100.0000"
+      EXPRESSION ( ([elev]  > 60) And ([elev]  <= 100))
       STYLE
         COLOR 244 165 130
         WIDTH 1
@@ -177,8 +182,8 @@ MAP
       END # STYLE
     END # CLASS
     CLASS
-      NAME "70.0000 - 105.0000"
-      EXPRESSION ( ([elev]  > 70) And ([elev]  <= 105))
+      NAME "100.0000 - 140.0000"
+      EXPRESSION ( ([elev]  > 100) And ([elev]  <= 140))
       STYLE
         COLOR 223 82 81
         WIDTH 1 
@@ -190,10 +195,10 @@ MAP
       END # STYLE
     END # CLASS
     CLASS
-      NAME "105.0000 - 145.0000"
-      EXPRESSION ( ([elev]  > 105) And ([elev]  <= 145))
+      NAME "140.0000 - 180.0000"
+      EXPRESSION ( ([elev]  > 140) And ([elev]  <= 180))
       STYLE
-        COLOR 352 0 32
+        COLOR 202 0 32
         WIDTH 1 
       END # STYLE
       STYLE
@@ -203,6 +208,8 @@ MAP
       END # STYLE
     END # CLASS
     CLASS
+
+
       LABEL
         ANTIALIAS TRUE
         FONT "DejaVuSans"
@@ -218,6 +225,168 @@ MAP
     END # CLASS
 
   END # LAYER
+  ##########################
+  ## end layer definition ##
+  ##########################
+
+  ############################
+  ## start layer definition ##
+  ############################
+  LAYER
+    # TODO: editing DATA, EXTENT(?)
+    DATA "/home/ungarj/GOCE/data/isolines_01.shp"
+    EXTENT -180 -90 180 90
+    METADATA
+      "ows_title"   "Inclination"
+    END # METADATA
+    NAME "Inclination"
+    PROJECTION
+      "proj=longlat"
+      "ellps=WGS84"
+      "no_defs"
+    END # PROJECTION
+    STATUS ON
+    TILEITEM "location"
+    TYPE LINE
+
+    CLASS
+      NAME "-180.0000 - -140.0000"
+      EXPRESSION ( ([elev]  > -140) And ([elev]  <= -180)) 
+      STYLE
+        COLOR 5 113 176
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "-140.0000 - -100.0000"
+      EXPRESSION ( ([elev]  > -140) And ([elev]  <= -100)) 
+      STYLE
+        COLOR 75 155 199
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "-100.0000 - -60.0000"
+      EXPRESSION ( ([elev]  > -100) And ([elev]  <= -60))
+      STYLE
+        COLOR 146 197 222
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "-60.0000 - -20.0000"
+      EXPRESSION ( ([elev]  > -60) And ([elev]  <= -20)) 
+      STYLE
+        COLOR 196 222 234
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "-20.0000 - 20.0000"
+      EXPRESSION  ( ([elev]  > -20) And ([elev]  <= 20))
+      STYLE
+        COLOR 247 247 247
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+       WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "20.0000 - 60.0000"
+      EXPRESSION ( ([elev]  > 20) And ([elev]  <= 60))
+      STYLE
+        COLOR 245 356 188
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "60.0000 - 100.0000"
+      EXPRESSION ( ([elev]  > 60) And ([elev]  <= 100))
+      STYLE
+        COLOR 244 165 130
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "100.0000 - 140.0000"
+      EXPRESSION ( ([elev]  > 100) And ([elev]  <= 140))
+      STYLE
+        COLOR 223 82 81
+        WIDTH 1 
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "140.0000 - 180.0000"
+      EXPRESSION ( ([elev]  > 140) And ([elev]  <= 180))
+      STYLE
+        COLOR 202 0 32
+        WIDTH 1 
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+
+
+      LABEL
+        ANTIALIAS TRUE
+        FONT "DejaVuSans"
+        SIZE 2
+        BUFFER 1
+        COLOR 35 35 35
+        OFFSET 0 0
+        POSITION CC
+        PRIORITY 5
+        SHADOWSIZE 1 1
+        TYPE TRUETYPE
+      END # LABEL
+    END # CLASS
+
+  END # LAYER
+  ##########################
+  ## end layer definition ##
+  ##########################
 
 
 END # MAP

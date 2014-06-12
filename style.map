@@ -1,0 +1,224 @@
+MAP
+  FONTSET "/usr/share/fonts/fonts.list"
+  EXTENT -180 -90 180 90
+  IMAGETYPE "png"
+  NAME "QGIS-MAP"
+  STATUS ON
+  UNITS DD
+
+  OUTPUTFORMAT
+    NAME "png"
+    MIMETYPE "image/png"
+    DRIVER "AGG/PNG"
+    EXTENSION "png"
+    IMAGEMODE RGB
+    TRANSPARENT TRUE
+  END # OUTPUTFORMAT
+
+  PROJECTION
+    "proj=longlat"
+    "ellps=WGS84"
+    "datum=WGS84"
+    "no_defs"
+  END # PROJECTION
+  LEGEND
+    KEYSIZE 35 10
+    KEYSPACING 5 5
+    LABEL
+      SIZE MEDIUM
+      OFFSET 0 0
+      SHADOWSIZE 1 1
+      TYPE BITMAP
+    END # LABEL
+    STATUS OFF
+  END # LEGEND
+
+  QUERYMAP
+    SIZE -1 -1
+    STATUS OFF
+    STYLE HILITE
+  END # QUERYMAP
+
+  SCALEBAR
+    INTERVALS 4
+    LABEL
+      SIZE MEDIUM
+      OFFSET 0 0
+      SHADOWSIZE 1 1
+      TYPE BITMAP
+    END # LABEL
+    SIZE 350 3
+    STATUS OFF
+    UNITS MILES
+  END # SCALEBAR
+
+  WEB
+    FOOTER ""
+    HEADER ""
+    TEMPPATH ""
+    METADATA
+      "ows_onlineresource"  "http://data.eox.at/goce_ows"
+      "ows_enable_request"  "*"
+      "ows_srs" "EPSG:4326"
+      "ows_title"   "QGIS-MAP"
+    END # METADATA
+    #TEMPLATE "[templatepath]"
+  END # WEB
+
+  LAYER
+    DATA "/home/ungarj/GOCE/data/isolines_01.shp"
+    EXTENT -180 -90 180 90
+    MAXSCALEDENOM 10500000
+    METADATA
+      "ows_title"   "isolines_01"
+    END # METADATA
+    MINSCALEDENOM 0
+    NAME "isolines_01"
+    PROJECTION
+      "proj=longlat"
+      "ellps=WGS84"
+      "no_defs"
+    END # PROJECTION
+    STATUS ON
+    TILEITEM "location"
+    TYPE LINE
+    UNITS METERS
+
+
+    CLASS
+      NAME "-1145.0000 - -145.0000"
+      EXPRESSION ( ([elev]  > -1145) And ([elev]  <= -145)) 
+      STYLE
+        COLOR 5 113 176
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "-145.0000 - -105.0000"
+      EXPRESSION ( ([elev]  > -145) And ([elev]  <= -105)) 
+      STYLE
+        COLOR 75 155 199
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "-105.0000 - -70.0000"
+      EXPRESSION ( ([elev]  > -105) And ([elev]  <= -70))
+      STYLE
+        COLOR 146 197 222
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "-70.0000 - -35.0000"
+      EXPRESSION ( ([elev]  > -70) And ([elev]  <= -35)) 
+      STYLE
+        COLOR 196 222 234
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "-35.0000 - 0.0000"
+      EXPRESSION  ( ([elev]  > -35) And ([elev]  <= 0))
+      STYLE
+        COLOR 247 247 247
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+       WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "0.0000 - 35.0000"
+      EXPRESSION ( ([elev]  > 0) And ([elev]  <= 35))
+      STYLE
+        COLOR 245 356 188
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "35.0000 - 70.0000"
+      EXPRESSION ( ([elev]  > 35) And ([elev]  <= 70))
+      STYLE
+        COLOR 244 165 130
+        WIDTH 1
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "70.0000 - 105.0000"
+      EXPRESSION ( ([elev]  > 70) And ([elev]  <= 105))
+      STYLE
+        COLOR 223 82 81
+        WIDTH 1 
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      NAME "105.0000 - 145.0000"
+      EXPRESSION ( ([elev]  > 105) And ([elev]  <= 145))
+      STYLE
+        COLOR 352 0 32
+        WIDTH 1 
+      END # STYLE
+      STYLE
+        COLOR "#3939397f"
+        OFFSET 0 -99
+        WIDTH 0.3
+      END # STYLE
+    END # CLASS
+    CLASS
+      LABEL
+        ANTIALIAS TRUE
+        FONT "DejaVuSans"
+        SIZE 2
+        BUFFER 1
+        COLOR 35 35 35
+        OFFSET 0 0
+        POSITION CC
+        PRIORITY 5
+        SHADOWSIZE 1 1
+        TYPE TRUETYPE
+      END # LABEL
+    END # CLASS
+
+  END # LAYER
+
+
+END # MAP
+

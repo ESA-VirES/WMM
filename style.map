@@ -1,5 +1,4 @@
 MAP
-  FONTSET "/usr/share/fonts/fonts.list"
   EXTENT -180 -90 180 90
   IMAGETYPE "png"
   NAME "QGIS-MAP"
@@ -21,36 +20,6 @@ MAP
     "datum=WGS84"
     "no_defs"
   END # PROJECTION
-  LEGEND
-    KEYSIZE 35 10
-    KEYSPACING 5 5
-    LABEL
-      SIZE MEDIUM
-      OFFSET 0 0
-      SHADOWSIZE 1 1
-      TYPE BITMAP
-    END # LABEL
-    STATUS OFF
-  END # LEGEND
-
-  QUERYMAP
-    SIZE -1 -1
-    STATUS OFF
-    STYLE HILITE
-  END # QUERYMAP
-
-  SCALEBAR
-    INTERVALS 4
-    LABEL
-      SIZE MEDIUM
-      OFFSET 0 0
-      SHADOWSIZE 1 1
-      TYPE BITMAP
-    END # LABEL
-    SIZE 350 3
-    STATUS OFF
-    UNITS MILES
-  END # SCALEBAR
 
   WEB
     FOOTER ""
@@ -66,9 +35,6 @@ MAP
   END # WEB
 
 
-
-  # TODO: add style definition for every single layer separately
-  # (I hate mapfiles.)
 
   ############################
   ## start layer definition ##
@@ -205,21 +171,6 @@ MAP
       END # STYLE
     END # CLASS
     CLASS
-
-
-      LABEL
-        ANTIALIAS TRUE
-        FONT "DejaVuSans"
-        SIZE 2
-        BUFFER 1
-        COLOR 35 35 35
-        OFFSET 0 0
-        POSITION CC
-        PRIORITY 5
-        SHADOWSIZE 1 1
-        TYPE TRUETYPE
-      END # LABEL
-    END # CLASS
 
   END # LAYER
   ##########################
@@ -363,21 +314,6 @@ MAP
     END # CLASS
     CLASS
 
-
-      LABEL
-        ANTIALIAS TRUE
-        FONT "DejaVuSans"
-        SIZE 2
-        BUFFER 1
-        COLOR 35 35 35
-        OFFSET 0 0
-        POSITION CC
-        PRIORITY 5
-        SHADOWSIZE 1 1
-        TYPE TRUETYPE
-      END # LABEL
-    END # CLASS
-
   END # LAYER
   ##########################
   ## end layer definition ##
@@ -504,21 +440,6 @@ MAP
         OFFSET 0 -99
         WIDTH 0.3
       END # STYLE
-    END # CLASS
-
-    CLASS
-      LABEL
-        ANTIALIAS TRUE
-        FONT "DejaVuSans"
-        SIZE 2
-        BUFFER 1
-        COLOR 35 35 35
-        OFFSET 0 0
-        POSITION CC
-        PRIORITY 5
-        SHADOWSIZE 1 1
-        TYPE TRUETYPE
-      END # LABEL
     END # CLASS
 
   END # LAYER
@@ -649,21 +570,6 @@ MAP
       END # STYLE
     END # CLASS
 
-    CLASS
-      LABEL
-        ANTIALIAS TRUE
-        FONT "DejaVuSans"
-        SIZE 2
-        BUFFER 1
-        COLOR 35 35 35
-        OFFSET 0 0
-        POSITION CC
-        PRIORITY 5
-        SHADOWSIZE 1 1
-        TYPE TRUETYPE
-      END # LABEL
-    END # CLASS
-
   END # LAYER
   ##########################
   ## end layer definition ##
@@ -790,21 +696,6 @@ MAP
         OFFSET 0 -99
         WIDTH 0.3
       END # STYLE
-    END # CLASS
-
-    CLASS
-      LABEL
-        ANTIALIAS TRUE
-        FONT "DejaVuSans"
-        SIZE 2
-        BUFFER 1
-        COLOR 35 35 35
-        OFFSET 0 0
-        POSITION CC
-        PRIORITY 5
-        SHADOWSIZE 1 1
-        TYPE TRUETYPE
-      END # LABEL
     END # CLASS
 
   END # LAYER
@@ -935,21 +826,6 @@ MAP
       END # STYLE
     END # CLASS
 
-    CLASS
-      LABEL
-        ANTIALIAS TRUE
-        FONT "DejaVuSans"
-        SIZE 2
-        BUFFER 1
-        COLOR 35 35 35
-        OFFSET 0 0
-        POSITION CC
-        PRIORITY 5
-        SHADOWSIZE 1 1
-        TYPE TRUETYPE
-      END # LABEL
-    END # CLASS
-
   END # LAYER
   ##########################
   ## end layer definition ##
@@ -1076,21 +952,6 @@ MAP
         OFFSET 0 -99
         WIDTH 0.3
       END # STYLE
-    END # CLASS
-
-    CLASS
-      LABEL
-        ANTIALIAS TRUE
-        FONT "DejaVuSans"
-        SIZE 2
-        BUFFER 1
-        COLOR 35 35 35
-        OFFSET 0 0
-        POSITION CC
-        PRIORITY 5
-        SHADOWSIZE 1 1
-        TYPE TRUETYPE
-      END # LABEL
     END # CLASS
 
   END # LAYER

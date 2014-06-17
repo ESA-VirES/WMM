@@ -10,7 +10,7 @@ MAP
     MIMETYPE "image/png"
     DRIVER "AGG/PNG"
     EXTENSION "png"
-    IMAGEMODE RGB
+    IMAGEMODE RGBA
     TRANSPARENT TRUE
   END # OUTPUTFORMAT
 
@@ -34,8 +34,6 @@ MAP
     #TEMPLATE "[templatepath]"
   END # WEB
 
-
-
   ############################
   ## start layer definition ##
   ############################
@@ -43,16 +41,17 @@ MAP
     METADATA
       "ows_title"   "Declination"
       "wmm_product" "Decl"
+      "wmm_flavor"  "1"
     END # METADATA
     NAME "Declination"
     PROJECTION
-      "proj=longlat"
-      "ellps=WGS84"
-      "no_defs"
-    END # PROJECTION
+      "init=epsg:4326"
+    END
     STATUS ON
     TILEITEM "location"
     TYPE LINE
+
+    PROCESSING "CLOSE_CONNECTION=DEFER"
 
     CLASS
       NAME "-180.0000 - -140.0000"
@@ -171,7 +170,6 @@ MAP
         WIDTH 0.3
       END # STYLE
     END # CLASS
-    CLASS
 
   END # LAYER
   ##########################
@@ -185,6 +183,8 @@ MAP
   LAYER
     METADATA
       "ows_title"   "Inclination"
+      "wmm_product" "Incl"
+      "wmm_flavor"  "1"
     END # METADATA
     NAME "Inclination"
     PROJECTION
@@ -313,7 +313,6 @@ MAP
         WIDTH 0.3
       END # STYLE
     END # CLASS
-    CLASS
 
   END # LAYER
   ##########################
@@ -327,6 +326,8 @@ MAP
   LAYER
     METADATA
       "ows_title"   "F"
+      "wmm_product" "F"
+      "wmm_flavor"  "2"
     END # METADATA
     NAME "F"
     PROJECTION
@@ -455,6 +456,8 @@ MAP
   LAYER
     METADATA
       "ows_title"   "H"
+      "wmm_product" "H"
+      "wmm_flavor"  "2"
     END # METADATA
     NAME "H"
     PROJECTION
@@ -583,6 +586,8 @@ MAP
   LAYER
     METADATA
       "ows_title"   "X"
+      "wmm_product" "X"
+      "wmm_flavor"  "2"
     END # METADATA
     NAME "X"
     PROJECTION
@@ -711,6 +716,8 @@ MAP
   LAYER
     METADATA
       "ows_title"   "Y"
+      "wmm_product" "Y"
+      "wmm_flavor"  "2"
     END # METADATA
     NAME "Y"
     PROJECTION
@@ -839,6 +846,8 @@ MAP
   LAYER
     METADATA
       "ows_title"   "Z"
+      "wmm_product" "Z"
+      "wmm_flavor"  "2"
     END # METADATA
     NAME "Z"
     PROJECTION

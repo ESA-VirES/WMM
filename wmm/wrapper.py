@@ -8,123 +8,114 @@ import numpy
 import gdal
 import osr
 import ogr
+from uuid import uuid4
 
-def main(args):
 
-    parser = argparse.ArgumentParser()
-    parser.add_argument("bbox", nargs=4, type=float)
-    #parser.add_argument("resolution", nargs=1, type=float)
-    parser.add_argument("pixelsize", nargs=1, type=int)
-    parser.add_argument("height", nargs=1, type=int)
-    parser.add_argument("time", nargs=1, type=float)
-    parser.add_argument("product", nargs=1, type=str)
-    #parser.add_argument("interval", nargs=1, type=float)
+zoomresolution = {
+    0.70312500:0,
+    0.35156250:1,
+    0.17578125:2,
+    0.08789063:3,
+    0.04394531:4,
+    0.02197266:5,
+    0.01098633:6,
+    0.00549316:7,
+    0.00274658:8,
+    0.00137329:9,
+    0.00068665:10
+}
 
+# product names:(id, iso_interval flavor)
+products = {
+    "Decl":(1, 1),
+    "Incl":(2, 1),
+    "F":(3, 2),
+    "H":(4, 2),
+    "X":(5, 2),
+    "Y":(6, 2),
+    "Z":(7, 2)
+    #"GV":{8,
+    #"Ddot":{9.,
+    #"Idot":{10,
+    #"Fdot":{11,
+    #"Hdot":{12,
+    #"Xdot":{13,
+    #"Ydot":{14,
+    #"Zdot":{15,
+    #"GVdot":{16
+}
+
+iso_intervals = {
+    1:{
+        0: 10,
+        1: 10,
+        2: 5,
+        3: 5,
+        4: 1,
+        5: 1,
+        6: 0.5,
+        7: 0.5,
+        8: 0.1
+    },
+    2:{
+        0: 5000,
+        1: 5000,
+        2: 2500,
+        3: 1000,
+        4: 1000,
+        5: 1000,
+        6: 500,
+        7: 500,
+        8: 100
+    }
+}
+
+
+def main(filename, product, bbox, pixelsize, height, time):
     # configuration
-
     ## resolutions (in degrees) per zoom level for EPSG 4326
-    zoomresolution = {
-        0.70312500:0,
-        0.35156250:1,
-        0.17578125:2,
-        0.08789063:3,
-        0.04394531:4,
-        0.02197266:5,
-        0.01098633:6,
-        0.00549316:7,
-        0.00274658:8,
-        0.00137329:9,
-        0.00068665:10
-    }
+    
+    exe = os.path.join(os.path.dirname(__file__), 'wmm_grid.exe')
+    
 
-    # product names:(id, iso_interval flavor)
-    products = {
-        "Declination":(1, 1),
-        "Inclination":(2, 1),
-        "F":(3, 2),
-        "H":(4, 2),
-        "X":(5, 2),
-        "Y":(6, 2),
-        "Z":(7, 2)
-        #"GV":{8,
-        #"Ddot":{9.,
-        #"Idot":{10,
-        #"Fdot":{11,
-        #"Hdot":{12,
-        #"Xdot":{13,
-        #"Ydot":{14,
-        #"Zdot":{15,
-        #"GVdot":{16
-    }
+    # save original cwd
+    olddir = os.getcwd()
 
-    iso_intervals = {
-        1:{
-            0:10,
-            1:10,
-            2:5,
-            3:5,
-            4:1,
-            5:1,
-            6:0.5,
-            7:0.5,
-            8:0.1
-        },
-        2:{
-            0:5000,
-            1:5000,
-            2:2500,
-            3:1000,
-            4:1000,
-            5:1000,
-            6:500,
-            7:500,
-            8:100
-        }
-    }
+    # set CWD in order to let wmm_grid.exe find the WMM.COF
+    os.chdir(os.path.dirname(__file__))
 
-    parsed = parser.parse_args(args)
+    if not os.path.exists("WMM.COF"):
+        raise Exception(
+            "Coefficient file missing: %s" 
+            % os.path.join(os.path.dirname(__file__), "WMM.COF")
+        )
 
-    exe='./wmm_grid.exe'
-    proc = subprocess.Popen([exe],1,exe,subprocess.PIPE,sys.stdout,subprocess.STDOUT) 
+    proc = subprocess.Popen(
+        [exe], 1, exe, subprocess.PIPE, open(os.devnull),
+        subprocess.STDOUT
+    )
+    os.chdir(olddir)
 
-    # Minimum Latitude (in decimal degrees)
-    #latmin = -90
-    latmin = parsed.bbox[0]
-
-    # Maximum Latitude (in decimal degrees)
-    #latmax = 90
-    latmax = parsed.bbox[2]
-
-    # Minimum Longitude (in decimal degrees)
-    #lonmin = -180
-    lonmin = parsed.bbox[1]
-
-    # Maximum Longitude (in decimal degrees)
-    #lonmax = 180
-    lonmax = parsed.bbox[3]
+    latmin, lonmin, latmax, lonmax = bbox
 
     # Step Size (in decimal degrees)
-    #deg_interval = parsed.resolution[0]
-    pixelsize = parsed.pixelsize[0]
+    #deg_interval = resolution
     deg_interval = (latmax-latmin)/pixelsize
 
-    # 1: above mean sea level; 2: WGS-84 ellipsoid
-    height = "2"
-
     # Minimum Height above the WGS-84 Ellipsoid (in km)
-    heightmax = parsed.height[0]
+    heightmax = height
 
     # Maximum Height above the WGS-84 Ellipsoid (in km)
-    heightmin = parsed.height[0]
+    heightmin = height
 
     # height step size (in km)
     height_interval = 0
 
     # decimal year starting time
-    timestart = parsed.time[0]
+    timestart = time
 
     # decimal year ending time
-    timeend = parsed.time[0]
+    timeend = time
 
     # time step size
     time_interval = "0"
@@ -138,13 +129,13 @@ def main(args):
     # 6. Y				14. Ydot
     # 7. Z				15. Zdot    
     # 8. GV				16. GVdot
-    product = products[parsed.product[0]][0]
+    product_id = products[product][0]
 
     # select output (1 for file)
     output = "1"
 
     # output filename
-    tempfile = "temp_result"
+    tempfile = "/tmp/%s" % uuid4().hex[:10]
 
     # generate geotransform values
     resolution = deg_interval
@@ -177,7 +168,7 @@ def main(args):
     print >>proc.stdin, timestart
     print >>proc.stdin, timeend
     print >>proc.stdin, time_interval
-    print >>proc.stdin, product
+    print >>proc.stdin, product_id
     print >>proc.stdin, output
     print >>proc.stdin, tempfile
     print >>proc.stdin
@@ -198,28 +189,37 @@ def main(args):
             raster_out[linenumber] = str(line_array[4])
             linenumber = linenumber+1
 
+    os.remove(tempfile)
+
     raster_2d = numpy.flipud(raster_out.reshape(rasterysize,rasterxsize))
 
     #print raster_2d.shape
     #print rasterxsize, rasterysize
 
-    driver = gdal.GetDriverByName('MEM')
-    mem_ds = driver.Create('', int(rasterxsize), int(rasterysize), 1, gdal.GDT_Float32)
-    mem_ds.GetRasterBand(1).WriteArray(raster_2d)
-    mem_ds.SetGeoTransform(geotransform)
+    driver = gdal.GetDriverByName('GTiff')
+    ds = driver.Create(
+        filename, int(rasterxsize), int(rasterysize), 1, gdal.GDT_Float32
+    )
+    ds.GetRasterBand(1).WriteArray(raster_2d)
+    ds.SetGeoTransform(geotransform)
     srs = osr.SpatialReference()
     srs.ImportFromEPSG(4326)
-    mem_ds.SetProjection( srs.ExportToWkt() )
+    ds.SetProjection(srs.ExportToWkt())
 
-    #print zoomresolution[deg_interval]
+    return ds
 
     #contour_steps = parsed.interval[0]
-    contour_steps = iso_intervals[products[parsed.product[0]][1]][zoomresolution[round(deg_interval,8)]]
+    """
+    zoom = round(deg_interval, 8)
+    contour_steps = iso_intervals[
+        products[product][1]
+    ][zoomresolution[zoom]]
 
     #print "zoomlevel: " + zoomresolution[deg_interval]
     #print iso_intervals[products[parsed.product[0]][1]][zoomresolution[deg_interval]]
 
     # clean up from previous runs
+    
     try:
         os.remove('contour.shp')
     except:
@@ -233,7 +233,8 @@ def main(args):
     except:
         pass
 
-    ogr_ds = ogr.GetDriverByName('ESRI Shapefile').CreateDataSource('contour.shp')
+
+    ogr_ds = ogr.GetDriverByName('ESRI Shapefile').CreateDataSource(filename)
     ogr_lyr = ogr_ds.CreateLayer('contour')
     field_defn = ogr.FieldDefn('ID', ogr.OFTInteger)
     ogr_lyr.CreateField(field_defn)
@@ -244,7 +245,24 @@ def main(args):
 
     #print min(raster_out), max(raster_out)
 
-    os.remove(tempfile)
+    """
+
 
 if __name__ == "__main__":
-        main(sys.argv[1:])
+    args = sys.argv[1:]
+    parser = argparse.ArgumentParser()
+    parser.add_argument("bbox", nargs=4, type=float)
+    #parser.add_argument("resolution", nargs=1, type=float)
+    parser.add_argument("pixelsize", nargs=1, type=int)
+    parser.add_argument("height", nargs=1, type=int)
+    parser.add_argument("time", nargs=1, type=float)
+    parser.add_argument("product", nargs=1, type=str)
+    parser.add_argument("--contour", action="store_true", default=False)
+    #parser.add_argument("interval", nargs=1, type=float)
+
+    parsed = parser.parse_args(args)
+
+    main(
+        "contour.shp", parsed.product[0], parsed.bbox, parsed.pixelsize[0], 
+        parsed.height[0], parsed.time[0], parsed.contour
+    )

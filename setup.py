@@ -11,5 +11,6 @@ setup(
     #    include_dirs=["."],
     #)],
     packages=["wmm"],
-    package_data={'wmm': ['wmm/WMM.COF', "src/wmm_grid.exe"]}
+    package_data={'wmm': ['wmm/WMM.COF', "wmm/wmm_grid.exe"]},
+    include_package_data=True
 )

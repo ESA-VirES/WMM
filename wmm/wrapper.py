@@ -77,24 +77,16 @@ def main(filename, product, bbox, pixelsize, height, time):
     
     exe = os.path.join(os.path.dirname(__file__), 'wmm_grid.exe')
     
-
-    # save original cwd
-    olddir = os.getcwd()
-
-    # set CWD in order to let wmm_grid.exe find the WMM.COF
-    os.chdir(os.path.dirname(__file__))
-
-    if not os.path.exists("WMM.COF"):
+    """if not os.path.exists("WMM.COF"):
         raise Exception(
             "Coefficient file missing: %s" 
             % os.path.join(os.path.dirname(__file__), "WMM.COF")
-        )
+        )"""
 
     proc = subprocess.Popen(
         [exe], 1, exe, subprocess.PIPE, open(os.devnull),
-        subprocess.STDOUT
+        subprocess.STDOUT, cwd=os.path.dirname(__file__)
     )
-    os.chdir(olddir)
 
     latmin, lonmin, latmax, lonmax = bbox
 
@@ -139,8 +131,8 @@ def main(filename, product, bbox, pixelsize, height, time):
 
     # generate geotransform values
     resolution = deg_interval
-    rasterxsize = (lonmax-lonmin)/deg_interval
-    rasterysize = (latmax-latmin)/deg_interval
+    rasterxsize = int((lonmax-lonmin)/deg_interval)
+    rasterysize = int((latmax-latmin)/deg_interval)
 
     geotransform = [
         lonmin,
@@ -198,7 +190,7 @@ def main(filename, product, bbox, pixelsize, height, time):
 
     driver = gdal.GetDriverByName('GTiff')
     ds = driver.Create(
-        filename, int(rasterxsize), int(rasterysize), 1, gdal.GDT_Float32
+        filename, rasterxsize, rasterysize, 1, gdal.GDT_Float32
     )
     ds.GetRasterBand(1).WriteArray(raster_2d)
     ds.SetGeoTransform(geotransform)

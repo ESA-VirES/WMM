@@ -9,7 +9,10 @@ import gdal
 import osr
 import ogr
 from uuid import uuid4
+import logging
 
+
+logger = logging.getLogger(__name__)
 
 zoomresolution = {
     0.70312500:0,
@@ -130,28 +133,24 @@ def main(filename, product, bbox, pixelsize, height, time):
     tempfile = "/tmp/%s" % uuid4().hex[:10]
 
     # generate geotransform values
-    resolution = deg_interval
-    rasterxsize = int((lonmax-lonmin)/deg_interval)
-    rasterysize = int((latmax-latmin)/deg_interval)
-
     geotransform = [
         lonmin,
-        resolution,
+        deg_interval,
         0,
         latmax,
         0,
-        -resolution
+        -deg_interval
     ]
 
-    wmmxmin = latmin+deg_interval/2
-    wmmxmax = latmax-deg_interval/2
-    wmmymin = lonmin+deg_interval/2
-    wmmymax = lonmax-deg_interval/2
+    wmmxmin = lonmin-deg_interval/2
+    wmmxmax = lonmax+deg_interval/2
+    wmmymin = latmin-deg_interval/2
+    wmmymax = latmax+deg_interval/2
 
-    print >>proc.stdin, wmmxmin
-    print >>proc.stdin, wmmxmax
     print >>proc.stdin, wmmymin
     print >>proc.stdin, wmmymax
+    print >>proc.stdin, wmmxmin
+    print >>proc.stdin, wmmxmax
     print >>proc.stdin, deg_interval
     print >>proc.stdin, height
     print >>proc.stdin, heightmax
@@ -169,20 +168,26 @@ def main(filename, product, bbox, pixelsize, height, time):
     print "STATUS:", status 
     proc.stdin.close()
 
-    #print wmmxmin, wmmxmax, wmmymin, wmmymax
-
-    # create 1d numpy array
-    raster_out = numpy.zeros((rasterxsize*rasterysize), "float32")
-    linenumber = 0
+    values = []
+    xvalues = set()
+    yvalues = set()
 
     with open(tempfile) as f:
         for line in f:
             line_array = line.split( )
-            raster_out[linenumber] = str(line_array[4])
-            linenumber = linenumber+1
+            values.append(str(line_array[4]))
+            xvalues.add(str(line_array[1]))
+            yvalues.add(str(line_array[0]))
+
+    rasterxsize = len(xvalues)
+    rasterysize = len(yvalues)
+
+    logger.info("size %d %d " %(rasterxsize, rasterysize))
 
     os.remove(tempfile)
 
+    # create 1d numpy array, reshape to 2d, and flip to correct order
+    raster_out = numpy.fromiter(values, "float32")
     raster_2d = numpy.flipud(raster_out.reshape(rasterysize,rasterxsize))
 
     #print raster_2d.shape

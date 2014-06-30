@@ -59,7 +59,7 @@ MAP
 
     CLASS
       TEXT (tostring([elev],"%.0f"))
-      EXPRESSION ( ([elev]  > -180) And ([elev]  < 0) And ([elev] % 5 = 0))
+      EXPRESSION ( ([elev]  > -180) And ([elev]  < 0) And (([elev]*10) % 50 = 0))
       STYLE
         COLOR "#999999aa"
         OFFSET 0 0
@@ -131,7 +131,7 @@ MAP
     END # CLASS
 
     CLASS
-      EXPRESSION ( ([elev]  > 0) And ([elev]  <= 180) And ([elev] % 5 = 0))
+      EXPRESSION ( ([elev]  > 0) And ([elev]  <= 180) And (([elev]*10) % 50 = 0))
       STYLE
         COLOR "#999999aa"
         OFFSET 0 0
@@ -204,7 +204,7 @@ MAP
 
     CLASS
       TEXT (tostring([elev],"%.0f"))
-      EXPRESSION ( ([elev]  > -180) And ([elev]  < 0) And ([elev] % 5 = 0))
+      EXPRESSION ( ([elev]  > -180) And ([elev]  < 0) And (([elev]*10) % 50 = 0))
       STYLE
         COLOR "#999999aa"
         OFFSET 0 0
@@ -276,7 +276,7 @@ MAP
     END # CLASS
 
     CLASS
-      EXPRESSION ( ([elev]  > 0) And ([elev]  <= 180) And ([elev] % 5 = 0))
+      EXPRESSION ( ([elev]  > 0) And ([elev]  <= 180) And (([elev]*10) % 50 = 0))
       STYLE
         COLOR "#999999aa"
         OFFSET 0 0
